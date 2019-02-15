@@ -1,7 +1,5 @@
 # useModel()
 
-> ⚠️ Warning: hooks are not part of a stable React release yet, so use this only for experiments ⚠️
-
 ## Overview
 
 The useModel hook is a wrapper around React's useState hook. Its setter can be passed directly to form controls.
